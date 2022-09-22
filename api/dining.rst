@@ -20,7 +20,7 @@ Getting Categories
 
     :statuscode 200: Always returned.
 
-    :>jsonarr integer id: A category's unique identifer. Usable as a primary key in a databse.
+    :>jsonarr integer id: A category's unique identifer. Usable as a primary key in a database.
     :>jsonarr string name: A category's name.
 
     **Example: Getting All Categories**
